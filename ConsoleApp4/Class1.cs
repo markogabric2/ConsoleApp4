@@ -6,9 +6,8 @@ namespace ConsoleApp4
 {
     class Class1
     {
-        void Poruka()
+        void Metoda()
         {
-            Console.WriteLine("Hello World!");
         }
        
     }
