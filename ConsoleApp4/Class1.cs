@@ -6,9 +6,7 @@ namespace ConsoleApp4
 {
     class Class1
     {
-        void Metoda()
-        {
-        }
+        
        
     }
 }
