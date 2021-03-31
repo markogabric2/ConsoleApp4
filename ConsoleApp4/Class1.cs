@@ -8,7 +8,7 @@ namespace ConsoleApp4
     {
         void Poruka()
         {
-            Console.WriteLine("poruka");
+            Console.WriteLine("poruka2");
         }
        
     }
