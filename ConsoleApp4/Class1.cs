@@ -4,7 +4,7 @@ using System.Text;
 
 namespace ConsoleApp4
 {
-    class Class2
+    class Class3
     {
         void Poruka()
         {
