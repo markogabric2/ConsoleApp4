@@ -6,7 +6,10 @@ namespace ConsoleApp4
 {
     class Class1
     {
-        
+        void Poruka()
+        {
+            Console.WriteLine("Poruka");
+        }
        
     }
 }
